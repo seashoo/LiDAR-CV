@@ -1,4 +1,4 @@
-## Log for Trip started Sun May 16 06:00:17 2021.  
+## Log for Trip.  
   
 ![Map Plot 01](Maps/scanMap01.png)  
 Leg 1  

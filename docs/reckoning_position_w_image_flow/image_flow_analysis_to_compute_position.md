@@ -1,5 +1,5 @@
 ## Can image flow analysis of consecutive scans be used instead of encoders to keep track of robot position?
-### 11/23/2020
+
 ![robot moved through 4 positions separated by 2 in](images/scandata4.png)
 
 The image above shows 4 scans overlayed as the robot is advanced through 4 positions along the Y axis spaced roughly 2 inches apart. The units on the X and Y axes are in cm, by the way.
