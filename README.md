@@ -10,7 +10,7 @@ This project uses a Benewake TFMini Plus LiDAR module mounted to scan 225 degree
 More about **Omni-Wheels** can be found [here](omni-wheels.md).
 
 By using the scan data, the car can navigate autonomously,
-able to make a [multi-leg trip](docs/triplog-21-05-16-06-00/trip_log.md) through the house.  
+able to make a [multi-leg trip](docs/triplog/trip_log.md) through the house.  
 An onboard Raspberry Pi 3B+ runs a python program which:  
 * Collects data from the TFminiPlus on a USB serial port
 * Collects readings from the angular encoder via ADC (on I2C bus)
